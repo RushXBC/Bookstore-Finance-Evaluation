@@ -19,8 +19,8 @@ Datasets:
 **IMPORTANT:**
 When importing these CSV files into your database, rename them to the following table names so the SQL queries function correctly:
 
-Bookstore Checking Balanced Dataset.csv → dbo.[Checking Balanced Dataset]
-bookstore_employees.csv → dbo.Employees
-bookstore_loans.csv → dbo.Loans
-bookstore_payroll.csv → dbo.Payroll
-bookstore_sales.csv → dbo.Sales
+* Bookstore Checking Balanced Dataset.csv → dbo.[Checking Balanced Dataset]
+* bookstore_employees.csv → dbo.Employees
+* bookstore_loans.csv → dbo.Loans
+* bookstore_payroll.csv → dbo.Payroll
+* bookstore_sales.csv → dbo.Sales
